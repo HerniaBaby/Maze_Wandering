@@ -1,3 +1,5 @@
+[![View Maze_Wandering on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/178374-maze_wandering)
+
 # Maze Wandering Simulation
 
 This script simulates a maze wandering experience with a first-person perspective (FPS) view. Below is a summary and detailed explanation of the parameters used in the script.
